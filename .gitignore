@@ -16,3 +16,11 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+Gemfile.lock
+bin/autospec
+bin/coderay
+bin/htmldiff
+bin/ldiff
+bin/pry
+bin/rspec
